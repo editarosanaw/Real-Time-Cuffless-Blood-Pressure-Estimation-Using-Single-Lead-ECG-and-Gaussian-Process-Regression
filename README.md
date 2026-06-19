@@ -14,9 +14,7 @@ This repository includes:
 * ECG-derived feature extraction code
 * Lightweight feature-level domain adaptation code
 * GPR training and inference scripts
-* Hyperparameter settings
-* Anonymized processed ECG-derived feature data
-* Anonymized 60-sample comparison table used in the manuscript
+* Real-time Blood Pressure Estimation
 
 The raw wearable ECG recordings are not publicly released because the original participant consent and ethical approval did not include open sharing of identifiable or potentially re-identifiable physiological waveform data.
 
