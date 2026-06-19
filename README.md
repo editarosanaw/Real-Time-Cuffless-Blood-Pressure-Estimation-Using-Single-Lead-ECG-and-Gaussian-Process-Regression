@@ -127,9 +127,7 @@ Please cite the related publication when using this repository.
 If you use this repository, please cite:
 
 ```text
-Widasari, E. R., Alhamid, F. K., Laksono, R. M., and Syauqi, D.
-“Real-Time Cuffless Blood Pressure Estimation Using Single-Lead ECG and Gaussian Process Regression.”
-International Journal of Intelligent Engineering and Systems, 2026.
+(update soon)
 ```
 
 ---
