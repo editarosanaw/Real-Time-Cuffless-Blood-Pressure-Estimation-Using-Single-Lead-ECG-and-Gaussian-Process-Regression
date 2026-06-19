@@ -74,29 +74,6 @@ The hyperparameter configuration includes:
 
 ---
 
-## 🚀 How to Use
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/[username]/single-lead-ecg-cuffless-bp-gpr.git
-cd single-lead-ecg-cuffless-bp-gpr
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the ECG-based BP estimation pipeline
-
-```bash
-python code/infer_gpr.py
-```
-
----
-
 ## 🔒 Data Availability and Ethical Restriction
 
 The raw wearable ECG recordings are not publicly available because the original participant consent and ethical approval did not include open sharing of identifiable or potentially re-identifiable physiological waveform data.
